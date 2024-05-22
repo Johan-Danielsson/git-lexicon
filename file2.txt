@@ -1,1 +1,3 @@
 Content text for file2.txt
+
+Also added some content to this text file
